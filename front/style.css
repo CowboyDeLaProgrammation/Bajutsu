@@ -1,0 +1,58 @@
+
+#chevalogo {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+    vertical-align: middle;
+    margin-right: 8px;
+    font-weight: 750;
+}
+
+#carouselExampleIndicators {
+    width: 100%;
+}
+
+#carouselExampleIndicators img {
+    width: 100%;
+    height: 650px;
+    object-fit: cover;
+    object-position: center center;
+    display: block;
+}
+
+.carousel-space {
+    height: 150px;
+}
+
+body {
+    font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+}
+
+
+/* #header {
+    font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+} */
+
+#navbarNav {
+    text-transform: uppercase;
+    font-weight: 800;
+}
+@media (max-width: 768px) {
+    #carouselExampleIndicators img {
+        height: 350px;
+    }
+
+    .carousel-space {
+        height: 100px;
+    }
+}
+
+@media (max-width: 576px) {
+    #carouselExampleIndicators img {
+        height: 250px;
+    }
+
+    .carousel-space {
+        height: 75px;
+    }
+}
