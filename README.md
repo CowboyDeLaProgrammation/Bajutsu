@@ -1,6 +1,11 @@
 # Site Bajutsu - Arthur Lehmannm, Aleksandr Lukin
 C'est un site php dockerisé sur le theme du tir a l'arc sur le cheval
 
+## Auteurs
+
+- [Arthur Lehmann](https://github.com/Arthur-L09)
+- [Aleksandr Lukin](https://github.com/CowboyDeLaProgrammation)
+
 ## Pourquoi ce théme
 
 Nous avons choisi le bajutsu car on ne savait pas quelle theme prendre et car Monsieur Henauer n'a pas voulu qu'on fasse un jeu comme projet, donc on a decidé de prendre le tir a l'arc le cheval parce que c'est un hobby de Pascal Henaueur et c'est le seul theme qu'il nous pas imposé parmis les autres hobbys comme le sabre laser et le yoseikan.
@@ -8,11 +13,6 @@ Nous avons choisi le bajutsu car on ne savait pas quelle theme prendre et car Mo
 ## Lien journal de bord
 
 https://docs.google.com/document/d/1s8fsU33Rxh9mZVZmETQgGtIbpSe4sQdGVMhhjNod--o/edit?usp=sharing
-## Auteurs
-
-- [Arthur Lehmann](https://github.com/Arthur-L09)
-- [Aleksandr Lukin](https://github.com/CowboyDeLaProgrammation)
-
 
 ## Description / Fonctionnalités
 
