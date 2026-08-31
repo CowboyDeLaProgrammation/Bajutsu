@@ -6,6 +6,15 @@ C'est un site php dockerisé sur le theme du tir a l'arc sur le cheval
 - [Arthur Lehmann](https://github.com/Arthur-L09)
 - [Aleksandr Lukin](https://github.com/CowboyDeLaProgrammation)
 
+## Technologies utilisés
+
+ - HTML
+ - CSS
+ - PHP
+ - Apache2
+ - Docker
+ - MySQL
+
 ## Pourquoi ce théme
 
 Nous avons choisi le bajutsu car on ne savait pas quelle theme prendre et car Monsieur Henauer n'a pas voulu qu'on fasse un jeu comme projet, donc on a decidé de prendre le tir a l'arc le cheval parce que c'est un hobby de Pascal Henaueur et c'est le seul theme qu'il nous pas imposé parmis les autres hobbys comme le sabre laser et le yoseikan.
