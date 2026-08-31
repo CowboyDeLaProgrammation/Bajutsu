@@ -1,0 +1,9 @@
+FROM php:8.5-apache
+RUN docker-php-ext-install pdo pdo_mysql
+RUN a2enmod rewrite
+COPY config/000-default.conf /etc/apache2/sites-available/000-default.conf
+RUN a2ensite 000-default.conf
+COPY front/ /var/www/html/
+COPY tools/pdo.php /var/www/html/pdo.php
+COPY tools/requetes.php /var/www/html/requetes.php
+EXPOSE 80
